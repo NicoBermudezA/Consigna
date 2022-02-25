@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 hola como vas?
-=======
 Hola que tal, le afanamos el txt a ivan
->>>>>>> 13b14303e81573ac31618cbc798c73e54bf4e0ef
+texto de conflicto
